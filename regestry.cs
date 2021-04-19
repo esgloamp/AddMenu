@@ -114,4 +114,3 @@ namespace Program
         }
     }
 }
-// C:\Users\是你老子我\Documents\Chris ME\Programs\C_C++ programs\start.exe
